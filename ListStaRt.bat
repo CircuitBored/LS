@@ -4,7 +4,7 @@ color 0a
 :front
 title ListStaRt 1.5.2
 echo ListStaRt 1.5.2
-echo  (c) Helsy 2018-2019
+echo  (c) Cherioux 2018-2019
 :start
 echo ================================
 echo .
